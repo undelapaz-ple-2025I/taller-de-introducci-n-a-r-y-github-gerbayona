@@ -7,7 +7,7 @@ solucion <- function() {
   b <- 8
   c <- 5
   d <- 3
-  x <- NULL # ingresa valor aquí
+  x <- 3 # ingresa valor aquí
   y <- NULL # ingresa valor aquí
   s <- a*x-b
   t <- 2*s+c-d
